@@ -1,3 +1,4 @@
+🚀 Hey there! I'm **Asmita Ghosh** – a driven B.Tech CSE student 👩‍💻, Java aficionado ☕, full-stack web developer 🌐, and an AI/ML explorer 🤖 on a mission to turn ideas into impact.
 
 
 ## 💼 Tech Skills
